@@ -1,0 +1,60 @@
+.wanted{
+    border: dotted red;
+     font-size: 55px; 
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Lucida Sans';
+    
+    
+    height: 75vh;
+    width: 50vh;
+    margin: 4px;
+    background-color: yellow;
+}
+.mainContainer{
+border:  15px solid orangered;
+
+width: 45vh;
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.character{
+    border: solid green;
+    height: 240px;
+    width: 250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pain{
+    height: 100%;
+    width: 100%;
+    border: 5px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h6{
+    text-decoration: none;
+    font-size: 20px;
+
+}
+h1{
+    font-size: 75px;
+    text-align: center;
+    font-weight: bolder;
+    
+    font-family: 'Lucida Sans';
+    text-decoration: underline  overline;
+   
+}
+p{
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: oblique;
+    
+}
